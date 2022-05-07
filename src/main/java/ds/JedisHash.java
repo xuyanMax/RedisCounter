@@ -1,3 +1,5 @@
+package ds;
+
 import redis.clients.jedis.Jedis;
 
 import java.util.HashMap;

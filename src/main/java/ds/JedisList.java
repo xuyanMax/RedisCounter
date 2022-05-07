@@ -1,3 +1,5 @@
+package ds;
+
 import redis.clients.jedis.BinaryClient;
 import redis.clients.jedis.Jedis;
 
